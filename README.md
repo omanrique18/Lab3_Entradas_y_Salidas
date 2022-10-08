@@ -37,6 +37,7 @@ Para la simulación en RobotStudio se crea una nueva lista de usuario con las do
   <img src="https://user-images.githubusercontent.com/51519737/194683079-1ac27a3c-7b6a-4c29-84af-a13af50e8942.jpeg" width="350" />
 </p>
 
+[![Alt text](https://img.youtube.com/vi/gXlmvXHTyYI/0.jpg)](https://youtu.be/gXlmvXHTyYI)
 
 ## Rutina principal
 
